@@ -4,7 +4,7 @@
 
 ## Los pasos a seguir fueron:
 ##### 1) Crear un archivo html que contenga la información y estructura básica para poder concretar el proyecto.
-##### 2) Crear los archivos: man-salary-js y woman-salary.js en el que inventé las listas de hombres y mujeres con sus respectivos sueldos y nombres. 
+##### 2) Crear los archivos: man-salary-js y woman-salary.js en el que inventé las listas de hombres y mujeres con sus respectivos sueldos y nombres.
 ##### Dichas listas fueron creadas mediante un array vacío, que posteriormente fue llenado con el método .push(), acompañado de un objeto para cada persona.
 ##### 3) Luego, creé el archivo brecha.js para hacer toda la lógica.
 ##### En brecha.js separé únicamente los salarios de ambas partes con el método .map().
